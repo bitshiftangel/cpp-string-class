@@ -1,7 +1,8 @@
 # About
 
 Its a compact, pure C++ string class without using the standard library,  
-designed for convenient WinAPI usage and optimized memory handling.
+designed for convenient WinAPI usage and optimized memory handling. 
+*It was created for my project, and I will add functionality if necessary.*
 
 ## Features
 
